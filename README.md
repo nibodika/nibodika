@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Nibodika Chaudhary</h1>
+<h1 align="center">Hi👋, I'm Nibodika Chaudhary</h1>
 <h3 align="center">🎓 B.Sc. CSIT Student | 💡 Learning UI/UX | 🇳🇵 Based in Nepal</h3>
 
 <p align="center">
