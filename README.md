@@ -2,10 +2,9 @@
 <h3 align="center">🎓 B.Sc. CSIT Student | 💡 Learning UI/UX | 🇳🇵 Based in Nepal</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=CSIT+Final+Year+Student;Learning+UI%2FUX+Design;Building+Web+Projects+with+PHP+%26+MySQL" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F97316&center=true&vCenter=true&width=500&lines=CSIT+Final+Year+Student;Learning+UI%2FUX+Design;Building+Web+Projects+with+PHP+%26+MySQL" alt="Typing SVG" />
 </p>
 
----
 
 ### 🌟 About Me
 
