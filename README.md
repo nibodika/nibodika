@@ -5,41 +5,51 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F97316&center=true&vCenter=true&width=500&lines=CSIT+Final+Year+Student;Learning+UI%2FUX+Design;Building+Web+Projects+with+PHP+%26+MySQL" alt="Typing SVG" />
 </p>
 
+---
 
 ### 🌟 About Me
 
-- 🎓 I have completed my final semester of **B.Sc. CSIT** and am currently waiting for results  
-- 🖌️ I’m learning **UI/UX Design** to improve how users interact with websites  
-- 🛠️ I build projects using **HTML, CSS, PHP, and MySQL**  
-- 🚧 Currently exploring real-world web development step by step  
-- 🧩 I enjoy creating clean and simple interfaces and learning new things every day
+- 🎓 Completed final semester of **B.Sc. CSIT**, awaiting results  
+- 🎨 Currently learning **UI/UX Design** to build user-friendly and modern interfaces  
+- 💻 I create web projects using **HTML, CSS, PHP, and MySQL**  
+- 🧱 Learning step-by-step and improving through practice  
+- ✨ Love designing clean, simple, and responsive web pages
 
 ---
 
 ### 🔧 Skills
 
-- `HTML` | `CSS` | `JavaScript` (basic)
-- `PHP` | `MySQL`
-- `UI/UX Design` (in progress)
-- `Git & GitHub` | `VS Code` | `XAMPP`
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,github,vscode" />
+</p>
 
 ---
 
-### 🗂️ Projects
+### 🗂️ My Projects
 
-| Name | Description |
-|------|-------------|
-| 🏥 **Hospital Management System** | PHP-based final year project with multi-login system (admin, doctor, patient) and appointment handling |
-| 📝 **Registration Form** | Simple user registration project using HTML, CSS, and PHP |
-| 🧾 **Cottage Industry Tax System (Practice)** | Frontend-only project created for layout and design practice |
+✨ **Hospital Management System**  
+A PHP-based final year project with multi-login features for admin, doctors, and patients. Supports appointment booking and patient record management.  
+🚀 *Tech Used:* HTML, CSS, PHP, MySQL
+
+---
+
+📝 **Simple Registration Form**  
+Basic user registration form created using HTML, CSS, and PHP. Focused on clean UI and form validation.  
+🧪 *Practice project to understand user input handling and database storage.*
+
+---
+
+🧾 **Cottage Industry Tax System (Frontend Only)**  
+A layout design project built using only frontend technologies for learning purpose. No backend logic, just responsive UI.  
+🎨 *Focused on layout flow.*
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nibodika&show_icons=true&theme=default" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nibodika&layout=compact&theme=default" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nibodika&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nibodika&layout=compact&theme=tokyonight" width="48%" />
 </p>
 
 ---
@@ -57,4 +67,4 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200px" alt="coding gif" />
 </p>
 
-<p align="center"><b>“Learning and Improving.”</b></p>
+<p align="center"><b>“Learning and Improving” 💡</b></p>
