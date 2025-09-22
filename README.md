@@ -1,8 +1,8 @@
 <h1 align="center">Hi👋, I'm Nibodika Chaudhary</h1>
-<h3 align="center">🎓 B.Sc. CSIT Student | 💡 Learning UI/UX | 🇳🇵 Based in Nepal</h3>
+<h3 align="center">🎓 B.Sc. CSIT Student | 🇳🇵 Based in Nepal</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F97316&center=true&vCenter=true&width=500&lines=CSIT+Final+Year+Student;Learning+UI%2FUX+Design;Building+Web+Projects+with+PHP+%26+MySQL" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F97316&center=true&vCenter=true&width=500&lines=CSIT+Final+Year+Student;Building+Web+Projects+with+PHP+%26+MySQL" alt="Typing SVG" />
 </p>
 
 ---
@@ -10,8 +10,7 @@
 ### 🌟 About Me
 
 - 🎓 Completed final semester of **B.Sc. CSIT**, awaiting results  
-- 🎨 Currently learning **UI/UX Design** to build user-friendly and modern interfaces  
-- 💻 I create web projects using **HTML, CSS, PHP, and MySQL**  
+- 💻 I created web projects using **HTML, CSS, PHP, and MySQL**  
 - 🧱 Learning step-by-step and improving through practice  
 - ✨ Love designing clean, simple, and responsive web pages
 
