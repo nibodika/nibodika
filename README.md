@@ -2,9 +2,7 @@
 <h3 align="center">🎓 B.Sc. CSIT Student | 🇳🇵 Based in Nepal</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CSIT%20Final%20Year%20Student-orange?style=for-the-badge&logo=graduation-cap&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP%20%26%20MySQL-blue?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Web%20Developer-green?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F97316&center=true&vCenter=true&width=500&lines=B.Sc.+CSIT+Student;Exploring+Web+Development+%26+Programming;Always+Learning+New+Technologies" alt="Typing SVG" />
 </p>
 
 ---
@@ -12,9 +10,9 @@
 ### 🌟 About Me
 
 - 🎓 Completed final semester of **B.Sc. CSIT**, awaiting results  
-- 💻 I created web projects using **HTML, CSS, PHP, and MySQL**  
-- 🧱 Learning step-by-step and improving through practice  
-- ✨ Love designing clean, simple, and responsive web pages
+- 💻 Built projects using **HTML, CSS, JavaScript, PHP, and MySQL**  
+- 🌱 Open to learning new languages, frameworks, and tools  
+- ✨ Love designing clean, simple, and responsive web pages  
 
 ---
 
@@ -24,25 +22,27 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,github,vscode" />
 </p>
 
+<p align="center"><i>⚡ Continuously expanding my skills and adapting to new technologies</i></p>
+
 ---
 
 ### 🗂️ My Projects
 
 ✨ **Hospital Management System**  
 A PHP-based final year project with multi-login features for admin, doctors, and patients. Supports appointment booking and patient record management.  
-🚀 *Tech Used:* HTML, CSS, PHP, MySQL
+🚀 *Tech Used:* HTML, CSS, PHP, MySQL  
 
 ---
 
 📝 **Simple Registration Form**  
 Basic user registration form created using HTML, CSS, and PHP. Focused on clean UI and form validation.  
-🧪 *Practice project to understand user input handling and database storage.*
+🧪 *Practice project to understand user input handling and database storage.*  
 
 ---
 
 🧾 **Cottage Industry Tax System (Frontend Only)**  
 A layout design project built using only frontend technologies for learning purpose. No backend logic, just responsive UI.  
-🎨 *Focused on layout flow.*
+🎨 *Focused on layout flow.*  
 
 ---
 
@@ -58,7 +58,7 @@ A layout design project built using only frontend technologies for learning purp
 ### 📫 Contact Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nibodika-chaudhary-3bb66a284?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BrVp5IZ85SW%2Bdw89ImVm9aw%3D%3D"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/nibodika-chaudhary-3bb66a284"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/nibodika"><img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
