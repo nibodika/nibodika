@@ -2,7 +2,9 @@
 <h3 align="center">🎓 B.Sc. CSIT Student | 🇳🇵 Based in Nepal</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F97316&center=true&vCenter=true&width=500&lines=CSIT+Final+Year+Student;Building+Web+Projects+with+PHP+%26+MySQL" alt="Typing SVG" />
+  <img src="https://img.shields.io/badge/CSIT%20Final%20Year%20Student-orange?style=for-the-badge&logo=graduation-cap&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP%20%26%20MySQL-blue?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web%20Developer-green?style=for-the-badge&logo=html5&logoColor=white" />
 </p>
 
 ---
