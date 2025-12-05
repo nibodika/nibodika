@@ -1,12 +1,6 @@
 <h1 align="center">Hi👋, I'm Nibodika Chaudhary</h1>
 <h3 align="center">🎓 B.Sc. CSIT Student | 🇳🇵 Based in Nepal</h3>
 
-/*<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F97316&center=true&vCenter=true&width=500&lines=B.Sc.+CSIT+Student;Exploring+Web+Development+%26+Programming;Always+Learning+New+Technologies" alt="Typing SVG" />
-</p>
-
----*/
-
 ### 🌟 About Me
 
 - 🎓 Completed bachelor in **B.Sc. CSIT**  
