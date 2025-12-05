@@ -1,6 +1,8 @@
 <h1 align="center">Hi👋, I'm Nibodika Chaudhary</h1>
 <h3 align="center">🎓 B.Sc. CSIT Student | 🇳🇵 Based in Nepal</h3>
 
+---
+
 ### 🌟 About Me
 
 - 🎓 Completed bachelor in **B.Sc. CSIT**  
@@ -36,6 +38,7 @@ Basic user registration form created using HTML, CSS, and PHP. Focused on clean 
 A layout design project built using only frontend technologies for learning purpose. No backend logic, just responsive UI.  
 🎨 *Focused on layout flow.*  
 
+---
 
 ### 📊 GitHub Stats
 
@@ -53,6 +56,7 @@ A layout design project built using only frontend technologies for learning purp
   <a href="https://github.com/nibodika"><img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
+---
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200px" alt="coding gif" />
