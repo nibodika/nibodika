@@ -9,7 +9,7 @@
 
 ### 🌟 About Me
 
-- 🎓 Completed final semester of **B.Sc. CSIT**, awaiting results  
+- 🎓 Completed bachelor in **B.Sc. CSIT**  
 - 💻 Built projects using **HTML, CSS, JavaScript, PHP, and MySQL**  
 - 🌱 Open to learning new languages, frameworks, and tools  
 - ✨ Love designing clean, simple, and responsive web pages  
