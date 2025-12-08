@@ -50,7 +50,6 @@ A layout design project built using only frontend technologies for learning purp
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nibodika&layout=compact&theme=radical" width="48%" />
 </p>
 
-<p align="center"><i>⚡ Stats powered by GitHub Readme Stats (public instance)</i></p>
 
 ---
 
