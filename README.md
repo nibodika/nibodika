@@ -43,9 +43,14 @@ A layout design project built using only frontend technologies for learning purp
 ### 📊 GitHub Stats
 
 <p align="center">
+  <!-- GitHub Profile Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=nibodika&show_icons=true&theme=radical" width="48%" />
+
+  <!-- Top Languages Used -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nibodika&layout=compact&theme=radical" width="48%" />
 </p>
+
+<p align="center"><i>⚡ Stats powered by GitHub Readme Stats (public instance)</i></p>
 
 ---
 
