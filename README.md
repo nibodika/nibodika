@@ -1,14 +1,15 @@
-<h1 align="center">Hi👋, I'm Nibodika Chaudhary</h1>
-<h3 align="center">🎓 B.Sc. CSIT Student | 🇳🇵 Based in Nepal</h3>
+<h1 align="center">Hi 👋, I'm Nibodika Chaudhary</h1>
+<h3 align="center">🎓 B.Sc. CSIT Graduate | 🇳🇵 Based in Nepal</h3>
 
 ---
 
 ### 🌟 About Me
 
-- 🎓 Completed bachelor in **B.Sc. CSIT**  
-- 💻 Built projects using **HTML, CSS, JavaScript, PHP, and MySQL**  
-- 🌱 Open to learning new languages, frameworks, and tools  
-- ✨ Love designing clean, simple, and responsive web pages  
+- 🎓 B.Sc. CSIT graduate  
+- 💻 Built academic and personal projects using **HTML, CSS, JavaScript, PHP, and MySQL**  
+- 🤖 Learning **AI Engineering fundamentals** (Prompt Engineering, OpenAI API – beginner level)  
+- 🌱 Open to learning new technologies, frameworks, and tools  
+- ✨ Enjoy designing clean, simple, and responsive web interfaces  
 
 ---
 
@@ -18,7 +19,9 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,github,vscode" />
 </p>
 
-<p align="center"><i>⚡ Continuously expanding my skills and adapting to new technologies</i></p>
+<p align="center">
+  <i>⚡ Continuously learning and improving my technical skills</i>
+</p>
 
 ---
 
