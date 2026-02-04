@@ -29,11 +29,11 @@
 
 ✨ **Hospital Management System**  
 A PHP-based final year project with multi-login features for admin, doctors, and patients. Supports appointment booking and patient record management.  
-🚀 *Tech Used:* HTML, CSS, PHP, MySQL  
+🚀 *Tech Used:* HTML, CSS, Javascript, PHP, MySQL  
 
 
 📝 **Simple Registration Form**  
-Basic user registration form created using HTML, CSS, and PHP. Focused on clean UI and form validation.  
+Basic user registration form created using HTML, CSS, Javascript, PHP, and MYSQL. Focused on clean UI and form validation.  
 🧪 *Practice project to understand user input handling and database storage.*  
 
 
