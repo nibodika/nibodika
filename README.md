@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nibodika Chaudhary</h1>
-<h3 align="center">🎓 B.Sc. CSIT Graduate | 🇳🇵 Based in Nepal</h3>
+<h3 align="center">
+🎓 B.Sc. CSIT Graduate | 💻 Aspiring DevOps & Web Developer | 🇳🇵 Nepal
+</h3>
 
 ---
 
@@ -7,21 +9,28 @@
 
 - 🎓 B.Sc. CSIT graduate  
 - 💻 Built academic and personal projects using **HTML, CSS, JavaScript, PHP, and MySQL**  
-- 🤖 Learning **AI Engineering fundamentals** (Prompt Engineering, OpenAI API – beginner level)  
-- 🌱 Open to learning new technologies, frameworks, and tools  
-- ✨ Enjoy designing clean, simple, and responsive web interfaces  
+- ⚙️ Currently learning **Docker, Jenkins, Linux, Git/GitHub, CI/CD, and deployment workflows**  
+- 🌱 Interested in **DevOps, DevSecOps, Backend Systems, and Cloud Technologies** 
+- ✨ Enjoy building clean interfaces and learning modern development tools  
 
 ---
 
-### 🔧 Skills
+## 🔧 Skills & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,github,docker,linux,vscode" />
 </p>
 
-<p align="center">
-  <i>⚡ Continuously learning and improving my technical skills</i>
-</p>
+---
+
+## 🚀 DevOps & Deployment Practice
+
+- 🐳 Dockerized applications using Dockerfile  
+- ⚙️ Practiced Jenkins CI/CD pipeline basics  
+- 🖥️ Worked with Linux virtual machines and terminal commands  
+- 🌐 Deployed applications on Apache Tomcat server  
+- 📦 Used Harbor Registry for container image management  
+- 🔄 Familiar with GitHub workflow and version control practices  
 
 ---
 
@@ -54,7 +63,7 @@ A layout design project built using only frontend technologies for learning purp
 
 ---
 
-### 📫 Contact Me
+### 📫 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nibodika-chaudhary-3bb66a284"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -67,4 +76,4 @@ A layout design project built using only frontend technologies for learning purp
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200px" alt="coding gif" />
 </p>
 
-<p align="center"><b>“Learning and Improving” 💡</b></p>
+<p align="center"><b>“Learning, Building, and Improving Everyday” 💡</b></p>
