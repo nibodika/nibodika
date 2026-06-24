@@ -15,21 +15,9 @@
 
 ## 🔧 Skills & Technologies
 
-⚙️ DevOps & Cloud
+<p align="center"> <img src="https://skillicons.dev/icons?i=linux,docker,jenkins,ansible,aws,terraform,git,github,php,mysql,html,css,js,vscode" /> </p>
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=linux,docker,jenkins,ansible,aws,terraform,git,github" /> </p>
-
-<p align="center"> <img src="https://img.shields.io/badge/Vagrant-1868F2?style=for-the-badge&logo=vagrant&logoColor=white" /> <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" /> <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" /> <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black" /> <img src="https://img.shields.io/badge/OpenTofu-FFDA18?style=for-the-badge&logo=opentofu&logoColor=black" /> </p>
-
-🧪 Testing
-
-<p align="center"> <img src="https://skillicons.dev/icons?i=selenium" /> </p>
-
-<p align="center"> <img src="https://img.shields.io/badge/Manual_Testing-2E8B57?style=for-the-badge" /> </p>
-
-💻 Programming & Database
-
-<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql" /> </p>
+<p align="center"> <img src="https://img.shields.io/badge/Vagrant-1868F2?style=for-the-badge&logo=vagrant&logoColor=white" /> <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" /> <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" /> <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black" /> <img src="https://img.shields.io/badge/OpenTofu-FFDA18?style=for-the-badge&logo=opentofu&logoColor=black" /> <img src="https://img.shields.io/badge/Manual%20Testing-2E8B57?style=for-the-badge" /> <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" /> </p>
 
 ---
 
@@ -79,8 +67,10 @@ A layout design project built using only frontend technologies for learning purp
 
 ### Connect With Me
 
-<p align="center"> <a href="https://www.linkedin.com/in/nibodika-chaudhary-3bb66a284"> <img src="https://img.shields.io/badge/LinkedIn-Nibodika%20Chaudhary-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p>
+<p align="center"> <a href="https://github.com/nibodika"> <img src="https://skillicons.dev/icons?i=github" height="50"/> </a> &nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/nibodika-chaudhary-3bb66a284"> <img src="https://skillicons.dev/icons?i=linkedin" height="50"/> </a> </p>
 
-<p align="center"> <a href="https://github.com/nibodika"> <img src="https://img.shields.io/badge/GitHub-@nibodika-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> </p>
+---
+
+<p align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200px" alt="coding gif" /> </p>
 
 <p align="center"> <b>Learning, Automating, and Improving Every Day ⚙️</b> </p>
