@@ -1,25 +1,48 @@
 <h1 align="center">Hi 👋, I'm Nibodika Chaudhary</h1>
-<h3 align="center">
-🎓 B.Sc. CSIT Graduate | 💻 Aspiring DevOps & Web Developer | 🇳🇵 Nepal
-</h3>
+<h3 align="center"> 🎓 B.Sc. CSIT Graduate | ⚙️ DevOps Enthusiast | 🧪 QA Intern | 🇳🇵 Nepal </h3>
 
 ---
 
 ### 🌟 About Me
 
 - 🎓 B.Sc. CSIT graduate  
-- 💻 Built academic and personal projects using **HTML, CSS, JavaScript, PHP, and MySQL**  
-- ⚙️ Currently learning **Docker, Jenkins, Linux, Git/GitHub, CI/CD, and deployment workflows**  
-- 🌱 Interested in **DevOps, DevSecOps, Backend Systems, and Cloud Technologies** 
-- ✨ Enjoy building clean interfaces and learning modern development tools  
+- 💼 Completed internship at Nepal Telecom as part of the academic curriculum
+- ⚙️ Interested in DevOps, Automation, and Cloud Technologies
+- 🧪 Currently doing a QA internship and learning Selenium alongside DevOps
+- 🚀 Continuously learning and expanding my DevOps skill set
 
 ---
 
 ## 🔧 Skills & Technologies
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,github,docker,linux,vscode" />
-</p>
+⚙️ DevOps & Cloud
+
+<p align="center"> <img src="https://skillicons.dev/icons?i=linux,docker,jenkins,ansible,aws,terraform,git,github" /> </p>
+
+Linux
+Docker
+Vagrant
+Oracle VirtualBox
+Jenkins
+Maven
+Apache Tomcat
+Ansible
+AWS
+OpenTofu
+Terraform
+
+🧪 Testing
+Manual Testing
+Selenium (Learning)
+💻 Programming & Database
+
+<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql" /> </p>
+
+HTML
+CSS
+JavaScript
+PHP
+MySQL
 
 ---
 
@@ -30,7 +53,11 @@
 - 🖥️ Worked with Linux virtual machines and terminal commands  
 - 🌐 Deployed applications on Apache Tomcat server  
 - 📦 Used Harbor Registry for container image management  
-- 🔄 Familiar with GitHub workflow and version control practices  
+- 🔄 Familiar with GitHub workflow and version control practices
+- 🔧 Configuration management using Ansible
+- ☁️ Cloud fundamentals with AWS
+- 📦 Infrastructure as Code with Terraform and OpenTofu
+- 🧪 Learning test automation with Selenium
 
 ---
 
@@ -63,17 +90,12 @@ A layout design project built using only frontend technologies for learning purp
 
 ---
 
-### 📫 Connect With Me
+### Connect With Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/nibodika-chaudhary-3bb66a284"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/nibodika"><img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+<p align="center"> <a href="https://www.linkedin.com/in/nibodika-chaudhary-3bb66a284"> <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
 
----
+<a href="https://github.com/nibodika"> <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white" /> </a> </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200px" alt="coding gif" />
-</p>
+<p align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220px" alt="coding gif" /> </p>
 
-<p align="center"><b>“Learning, Building, and Improving Everyday” 💡</b></p>
+<p align="center"> <b>Learning, Automating, and Improving Every Day ⚙️</b> </p>
