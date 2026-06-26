@@ -69,7 +69,6 @@ A layout design project built using only frontend technologies for learning purp
 
 <p align="center"> <a href="https://github.com/nibodika"> <img src="https://skillicons.dev/icons?i=github" height="50"/> </a> &nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/nibodika-chaudhary-3bb66a284"> <img src="https://skillicons.dev/icons?i=linkedin" height="50"/> </a> </p>
 
----
 
 <p align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200px" alt="coding gif" /> </p>
 
